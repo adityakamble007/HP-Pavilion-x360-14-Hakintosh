@@ -5,8 +5,9 @@ A repo for installing macOS Sequoia on HP Pavilion x360 14 using OpenCore.
 ![](Images/Screenshot.png)
 
 
-# Laptop's Hardware 
-- <b>CPU</b>: Intel i5 8265u
+# Laptop's Hardware
+- <b>Laptop Model</b>: 14-dh0043TX
+- <b>CPU</b>: Intel i5 8265U
 - <b>GPU</b>: Intel UHD 620 Graphics
 - <b>dGPU</b>: Disabled MX130 Nvidia 
 - <b>Storage</b>: 250GB NVME PCIe SSD
@@ -14,7 +15,7 @@ A repo for installing macOS Sequoia on HP Pavilion x360 14 using OpenCore.
 - <b>Screen</b>: 14-inch FHD (1920 x 1080)
 - <b>Trackpad</b>: Something I2C
 - <b>Wi-Fi</b>: Intel Wireless Dual-Band AC 3168 (Upgraded)
-- <b>Ports</b>: Used inject all Kext
+- <b>Ports</b>: Used USBInject all Kext
 
 # Overview 
 
